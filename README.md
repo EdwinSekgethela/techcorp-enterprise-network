@@ -28,4 +28,4 @@ All configs, troubleshooting reports and cheat sheets are in /docs
 
 ## Author
 Edwin Sekgethela | CCNA Candidate | 
-linkedin.com/in/[your-linkedin-username]
+linkedin.com/in/[EdwinSekgethela]
